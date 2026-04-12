@@ -1,6 +1,6 @@
 ---
 name: mixdbg
-description: Mixed-mode DAP debug adapter for C# and native C++ debugging via dbgeng
+description: Mixed-mode DAP debug adapter for simultaneous C# and native C++ debugging via dbgeng
 homepage: https://github.com/LarsVader/mixdbg
 licenses:
   - MIT
