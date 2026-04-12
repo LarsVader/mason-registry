@@ -1,0 +1,20 @@
+---
+name: mixdbg
+description: Mixed-mode DAP debug adapter for C# and native C++ debugging via dbgeng
+homepage: https://github.com/LarsVader/mixdbg
+licenses:
+  - MIT
+languages:
+  - C#
+  - C++
+categories:
+  - DAP
+
+source:
+  id: pkg:github/LarsVader/mixdbg@{{version}}
+  asset:
+    - target: win_x64
+      file: mixdbg-win-x64.zip
+
+bin:
+  mixdbg: MixDbg.exe
