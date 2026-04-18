@@ -1,0 +1,20 @@
+---
+name: xaml-lsp
+description: XAML language server
+homepage: https://github.com/LarsVader/XamlToCSharpGenerator
+licenses:
+  - MIT
+languages:
+  - XAML
+  - C#
+categories:
+  - LSP
+
+source:
+  id: pkg:github/LarsVader/XamlToCSharpGenerator@lsp-v0.1.0
+  asset:
+    - target: win_x64
+      file: xaml-lsp-win-x64.zip
+
+bin:
+  xaml-lsp: XamlToCSharpGenerator.LanguageServer.exe
