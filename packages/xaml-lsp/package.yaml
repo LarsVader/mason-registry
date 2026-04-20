@@ -11,7 +11,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:github/LarsVader/XamlToCSharpGenerator@lsp-v0.1.0.1
+  id: pkg:github/LarsVader/XamlToCSharpGenerator@lsp-v0.1.0.3
   asset:
     - target: win_x64
       file: xaml-lsp-win-x64.zip
