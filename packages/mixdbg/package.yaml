@@ -11,7 +11,7 @@ categories:
   - DAP
 
 source:
-  id: pkg:github/LarsVader/mixdbg@v0.1.3
+  id: pkg:github/LarsVader/mixdbg@v0.1.4
   asset:
     - target: win_x64
       file: mixdbg-win-x64.zip
